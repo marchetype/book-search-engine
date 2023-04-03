@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/marchetype/book-search-engine/issues"
   },
-  "homepage": "https://github.com/marchetype/book-search-engine#readme"
+  "homepage": "https://github.com/marchetype/book-search-engine#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.12.0"
+  }
 }
